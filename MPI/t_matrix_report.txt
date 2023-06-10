@@ -1,0 +1,96 @@
+Size: 5 x 5 | Processes: 1 | Sequential Execution Time: 1.254e-06 seconds | Parallel Execution Time: 2.8794e-05 seconds
+
+Size: 5 x 5 | Processes: 2 | Sequential Execution Time: 1.254e-06 seconds | Parallel Execution Time: 1.2545e-05 seconds
+
+Size: 5 x 5 | Processes: 4 | Sequential Execution Time: 1.254e-06 seconds | Parallel Execution Time: 7.065e-06 seconds
+
+Size: 5 x 5 | Processes: 8 | Sequential Execution Time: 1.254e-06 seconds | Parallel Execution Time: 6.11e-06 seconds
+
+Size: 5 x 5 | Processes: 16 | Sequential Execution Time: 1.254e-06 seconds | Parallel Execution Time: 5.955e-06 seconds
+
+Size: 5 x 5 | Processes: 32 | Sequential Execution Time: 1.254e-06 seconds | Parallel Execution Time: 7.967e-06 seconds
+
+Size: 5 x 5 | Processes: 64 | Sequential Execution Time: 1.254e-06 seconds | Parallel Execution Time: 5.906e-06 seconds
+
+Size: 5 x 5 | Processes: 128 | Sequential Execution Time: 1.254e-06 seconds | Parallel Execution Time: 5.89e-06 seconds
+
+Size: 10 x 10 | Processes: 1 | Sequential Execution Time: 7.224e-06 seconds | Parallel Execution Time: 1.4138e-05 seconds
+
+Size: 10 x 10 | Processes: 2 | Sequential Execution Time: 7.224e-06 seconds | Parallel Execution Time: 1.009e-05 seconds
+
+Size: 10 x 10 | Processes: 4 | Sequential Execution Time: 7.224e-06 seconds | Parallel Execution Time: 7.762e-06 seconds
+
+Size: 10 x 10 | Processes: 8 | Sequential Execution Time: 7.224e-06 seconds | Parallel Execution Time: 6.83e-06 seconds
+
+Size: 10 x 10 | Processes: 16 | Sequential Execution Time: 7.224e-06 seconds | Parallel Execution Time: 6.24e-06 seconds
+
+Size: 10 x 10 | Processes: 32 | Sequential Execution Time: 7.224e-06 seconds | Parallel Execution Time: 6.039e-06 seconds
+
+Size: 10 x 10 | Processes: 64 | Sequential Execution Time: 7.224e-06 seconds | Parallel Execution Time: 5.923e-06 seconds
+
+Size: 10 x 10 | Processes: 128 | Sequential Execution Time: 7.224e-06 seconds | Parallel Execution Time: 6.05e-06 seconds
+
+Size: 50 x 50 | Processes: 1 | Sequential Execution Time: 0.000820877 seconds | Parallel Execution Time: 0.000821659 seconds
+
+Size: 50 x 50 | Processes: 2 | Sequential Execution Time: 0.000820877 seconds | Parallel Execution Time: 0.000415048 seconds
+
+Size: 50 x 50 | Processes: 4 | Sequential Execution Time: 0.000820877 seconds | Parallel Execution Time: 0.000203702 seconds
+
+Size: 50 x 50 | Processes: 8 | Sequential Execution Time: 0.000820877 seconds | Parallel Execution Time: 0.000106426 seconds
+
+Size: 50 x 50 | Processes: 16 | Sequential Execution Time: 0.000820877 seconds | Parallel Execution Time: 5.6639e-05 seconds
+
+Size: 50 x 50 | Processes: 32 | Sequential Execution Time: 0.000820877 seconds | Parallel Execution Time: 2.3895e-05 seconds
+
+Size: 50 x 50 | Processes: 64 | Sequential Execution Time: 0.000820877 seconds | Parallel Execution Time: 6.616e-06 seconds
+
+Size: 50 x 50 | Processes: 128 | Sequential Execution Time: 0.000820877 seconds | Parallel Execution Time: 6.408e-06 seconds
+
+Size: 100 x 100 | Processes: 1 | Sequential Execution Time: 0.00733574 seconds | Parallel Execution Time: 0.00720761 seconds
+
+Size: 100 x 100 | Processes: 2 | Sequential Execution Time: 0.00733574 seconds | Parallel Execution Time: 0.00369199 seconds
+
+Size: 100 x 100 | Processes: 4 | Sequential Execution Time: 0.00733574 seconds | Parallel Execution Time: 0.00184283 seconds
+
+Size: 100 x 100 | Processes: 8 | Sequential Execution Time: 0.00733574 seconds | Parallel Execution Time: 0.000878986 seconds
+
+Size: 100 x 100 | Processes: 16 | Sequential Execution Time: 0.00733574 seconds | Parallel Execution Time: 0.000443553 seconds
+
+Size: 100 x 100 | Processes: 32 | Sequential Execution Time: 0.00733574 seconds | Parallel Execution Time: 0.000225648 seconds
+
+Size: 100 x 100 | Processes: 64 | Sequential Execution Time: 0.00733574 seconds | Parallel Execution Time: 8.0229e-05 seconds
+
+Size: 100 x 100 | Processes: 128 | Sequential Execution Time: 0.00733574 seconds | Parallel Execution Time: 6.642e-06 seconds
+
+Size: 500 x 500 | Processes: 1 | Sequential Execution Time: 0.656004 seconds | Parallel Execution Time: 0.669924 seconds
+
+Size: 500 x 500 | Processes: 2 | Sequential Execution Time: 0.656004 seconds | Parallel Execution Time: 0.331291 seconds
+
+Size: 500 x 500 | Processes: 4 | Sequential Execution Time: 0.656004 seconds | Parallel Execution Time: 0.167436 seconds
+
+Size: 500 x 500 | Processes: 8 | Sequential Execution Time: 0.656004 seconds | Parallel Execution Time: 0.0873973 seconds
+
+Size: 500 x 500 | Processes: 16 | Sequential Execution Time: 0.656004 seconds | Parallel Execution Time: 0.0444133 seconds
+
+Size: 500 x 500 | Processes: 32 | Sequential Execution Time: 0.656004 seconds | Parallel Execution Time: 0.0232165 seconds
+
+Size: 500 x 500 | Processes: 64 | Sequential Execution Time: 0.656004 seconds | Parallel Execution Time: 0.00929847 seconds
+
+Size: 500 x 500 | Processes: 128 | Sequential Execution Time: 0.656004 seconds | Parallel Execution Time: 0.0051446 seconds
+
+Size: 1000 x 1000 | Processes: 1 | Sequential Execution Time: 6.44136 seconds | Parallel Execution Time: 6.69196 seconds
+
+Size: 1000 x 1000 | Processes: 2 | Sequential Execution Time: 6.44136 seconds | Parallel Execution Time: 3.29435 seconds
+
+Size: 1000 x 1000 | Processes: 4 | Sequential Execution Time: 6.44136 seconds | Parallel Execution Time: 1.63372 seconds
+
+Size: 1000 x 1000 | Processes: 8 | Sequential Execution Time: 6.44136 seconds | Parallel Execution Time: 0.821777 seconds
+
+Size: 1000 x 1000 | Processes: 16 | Sequential Execution Time: 6.44136 seconds | Parallel Execution Time: 0.423594 seconds
+
+Size: 1000 x 1000 | Processes: 32 | Sequential Execution Time: 6.44136 seconds | Parallel Execution Time: 0.210454 seconds
+
+Size: 1000 x 1000 | Processes: 64 | Sequential Execution Time: 6.44136 seconds | Parallel Execution Time: 0.10061 seconds
+
+Size: 1000 x 1000 | Processes: 128 | Sequential Execution Time: 6.44136 seconds | Parallel Execution Time: 0.0547206 seconds
+

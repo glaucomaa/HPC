@@ -1,0 +1,15 @@
+Execution Time (1 Processes): 0.715728 seconds
+
+Execution Time (2 Processes): 0.349938 seconds
+
+Execution Time (4 Processes): 0.170668 seconds
+
+Execution Time (8 Processes): 0.0841546 seconds
+
+Execution Time (16 Processes): 0.0400824 seconds
+
+Execution Time (32 Processes): 0.0193553 seconds
+
+Execution Time (64 Processes): 0.00900462 seconds
+
+Execution Time (128 Processes): 0.00436748 seconds

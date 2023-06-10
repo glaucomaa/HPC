@@ -1,0 +1,31 @@
+Processes: 1
+Parallel		Pi: 3.141592653589971	Time: 2.747783493000000 seconds
+Sequential		Pi: 3.141592653589971	Time: 2.412230839000000 seconds
+
+Processes: 2
+Parallel		Pi: 1.570796327294762	Time: 1.320842368000000 seconds
+Sequential		Pi: 3.141592653589971	Time: 2.447287422000000 seconds
+
+Processes: 4
+Parallel		Pi: 0.785398164147466	Time: 0.667273029000000 seconds
+Sequential		Pi: 3.141592653589971	Time: 2.468648905000000 seconds
+
+Processes: 8
+Parallel		Pi: 0.392699082573643	Time: 0.336400421999999 seconds
+Sequential		Pi: 3.141592653589971	Time: 2.467006470999999 seconds
+
+Processes: 16
+Parallel		Pi: 0.196349541786866	Time: 0.166429204000000 seconds
+Sequential		Pi: 3.141592653589971	Time: 2.458036745000001 seconds
+
+Processes: 32
+Parallel		Pi: 0.098174771393409	Time: 0.082859149000001 seconds
+Sequential		Pi: 3.141592653589971	Time: 2.459702677999999 seconds
+
+Processes: 64
+Parallel		Pi: 0.049087386196715	Time: 0.042128253000001 seconds
+Sequential		Pi: 3.141592653589971	Time: 2.487488555999999 seconds
+
+Processes: 128
+Parallel		Pi: 0.024543693598358	Time: 0.021131940000000 seconds
+Sequential		Pi: 3.141592653589971	Time: 2.520544125000001 seconds
